@@ -1,0 +1,15 @@
+{
+  "main.css": "/static/css/main.1cae5298.chunk.css",
+  "main.js": "/static/js/main.ce13cec4.chunk.js",
+  "main.js.map": "/static/js/main.ce13cec4.chunk.js.map",
+  "static/js/1.9c0a1930.chunk.js": "/static/js/1.9c0a1930.chunk.js",
+  "static/js/1.9c0a1930.chunk.js.map": "/static/js/1.9c0a1930.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.1cae5298.chunk.css.map": "/static/css/main.1cae5298.chunk.css.map",
+  "static/media/gremio_logo.png": "/static/media/gremio_logo.6d2d61d1.png",
+  "static/media/sci_logo.png": "/static/media/sci_logo.3d51bd78.png",
+  "index.html": "/index.html",
+  "precache-manifest.9c4ce51a5d6aa721ee79c6f29753bcc4.js": "/precache-manifest.9c4ce51a5d6aa721ee79c6f29753bcc4.js",
+  "service-worker.js": "/service-worker.js"
+}
